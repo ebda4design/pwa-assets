@@ -1,0 +1,21 @@
+﻿{
+  "name": "حقيبة المصمم",
+  "short_name": "حقيبة المصمم",
+  "description": "تحميل ملحقات تصميم الجرافيك مجانا",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQGnA134IVSPUPYkhdMa2ZwJ_o1GK0kEXJzVtOGKjJqeRlbLNtvrPeoLMRg6vFiRGtSEyuFlqJLThMBvV01Zf2Mav54MuXNpB_6XCh3JkOmDuzVrtb_MnPICSuV1oA1c83bO0B80A358mPxAOR91EPy8b8mcHtx9j27D5zEIKmfp-aNRITX_MkuDD_mn0X/s512/512%C3%97512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQGnA134IVSPUPYkhdMa2ZwJ_o1GK0kEXJzVtOGKjJqeRlbLNtvrPeoLMRg6vFiRGtSEyuFlqJLThMBvV01Zf2Mav54MuXNpB_6XCh3JkOmDuzVrtb_MnPICSuV1oA1c83bO0B80A358mPxAOR91EPy8b8mcHtx9j27D5zEIKmfp-aNRITX_MkuDD_mn0X/s512/512%C3%97512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
